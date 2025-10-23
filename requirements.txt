@@ -1,0 +1,9 @@
+yfinance==0.2.18
+pandas==2.0.3
+plotly==5.15.0
+dash==2.14.1
+dash-bootstrap-components==1.5.0
+sqlite3
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-decouple==3.8
